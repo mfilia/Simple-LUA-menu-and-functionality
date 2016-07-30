@@ -1,3 +1,3 @@
 # Simple-LUA-menu-and-functionality
 
-Menu and some function written in Lua
+Menu and some functions written in Lua
